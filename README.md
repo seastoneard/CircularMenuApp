@@ -1,7 +1,7 @@
 # CircularMenuApp
 <!-- Baidu Button BEGIN -->
 
-div id="article_content" class="article_content">
+<div id="article_content" class="article_content">
 
 <p><br>
 </p>
@@ -243,12 +243,17 @@ div id="article_content" class="article_content">
 }<strong>
 </strong></pre>
 <p></p>
+<p style="font-size:12px; color:rgb(102,102,102)"><span style="font-family:Microsoft YaHei,Arial; font-size:12px; color:#666666"><br>
+</span></p>
+
+<p><span style="font-family:Microsoft YaHei,Arial"><br>
+</span></p>
 <br>
+<br>
+<p><span style="font-family:Microsoft YaHei,Arial; font-size:12px; color:#666666"><strong><br>
+</strong></span></p>
    
 </div>
-
-
-
 
 
 <!-- Baidu Button END -->
