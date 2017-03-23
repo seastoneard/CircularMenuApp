@@ -231,7 +231,8 @@
                         if (mOnMenuItemClickListener != null&amp;&amp;displacement&lt;25) {
                             mOnMenuItemClickListener.itemClick(v,j);
                         }
-                    } else if (event.getAction() == MotionEvent.ACTION_CANCEL || event.getAction() == MotionEvent.ACTION_POINTER_UP) {
+                    } else if (event.getAction() == MotionEvent.ACTION_CANCEL
+                    || event.getAction() == MotionEvent.ACTION_POINTER_UP) {
                         iv.setImageResource(R.mipmap.menu_ture);
                     }
                     return true;
