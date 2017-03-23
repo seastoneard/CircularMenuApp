@@ -1,6 +1,7 @@
 # CircularMenuApp
 <!-- Baidu Button BEGIN -->
-<div id="article_content" class="article_content">
+
+div id="article_content" class="article_content">
 
 <p><br>
 </p>
@@ -11,7 +12,7 @@
 <p><span style="font-family:Microsoft YaHei,Arial; font-size:12px; color:#666666"><strong>效果：</strong></span></p>
 <p><span style="font-family:Microsoft YaHei,Arial; font-size:12px; color:#666666"><strong><br>
 </strong></span></p>
-<p style="text-align:left"><span style="font-family:Microsoft YaHei,Arial; font-size:12px; color:#666666"><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img src="http://img.blog.csdn.net/20170323150243409?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvemhoX2NzZG5fYXJk/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center" width="250" height="400" alt=""><br>
+<p style="text-align:left"><span style="font-family:Microsoft YaHei,Arial; font-size:12px; color:#666666"><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img src="http://img.blog.csdn.net/20170323154215014?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvemhoX2NzZG5fYXJk/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center" width="250" height="400" alt=""><br>
 </strong></span></p>
 <p><span style="font-family:Microsoft YaHei,Arial; font-size:12px; color:#666666"><strong><br>
 </strong></span></p>
@@ -26,7 +27,8 @@
 <p><span style="color:rgb(51,51,51); font-size:14px; font-family:&quot;Microsoft YaHei&quot;,Arial"><strong><span style="color:rgb(51,51,51); font-size:14px; font-family:SimHei">部分代码：</span></strong></span></p>
 <p><span style="color:rgb(51,51,51); font-size:14px; font-family:&quot;Microsoft YaHei&quot;,Arial"><strong><span style="color:rgb(51,51,51); font-size:14px; font-family:SimHei"><br>
 </span></strong></span></p>
-<p><span style="font-family:Microsoft YaHei,Arial"></span><pre name="code" class="java" style="font-size:12px; color: rgb(102, 102, 102);">public class HomePageMenuLayout extends ViewGroup {
+<p><span style="font-family:Microsoft YaHei,Arial"></span></p>
+<pre name="code" class="java" style="font-size:12px; color: rgb(102, 102, 102);">public class HomePageMenuLayout extends ViewGroup {
 
 
     private Context context;
@@ -239,10 +241,14 @@
         }
     }
 }<strong>
-</strong></pre></p>
+</strong></pre>
+<p></p>
 <br>
-  
+   
 </div>
+
+
+
 
 
 <!-- Baidu Button END -->
